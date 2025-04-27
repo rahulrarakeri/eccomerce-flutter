@@ -1,7 +1,7 @@
 ## flutter_ecommerce_app
 
 
-E-Commerce app is a design implementation of [E-commerce App]() designed by [DennisNzioki](https://linktr.ee/dnxempire)
+E-Commerce app is a design implementation of [E-commerce App]() 
 
 ![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/screenshot.png?raw=true)
 
@@ -67,9 +67,7 @@ Package Name        |
 
 <br/>
 
-## Created & Maintained By
 
-[Dennis Nzioki](https://github.com/DNXEMPIRE-1) 
 
 <br/>
 <br/>
