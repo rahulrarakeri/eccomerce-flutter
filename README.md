@@ -1,7 +1,7 @@
 ## flutter_ecommerce_app
 
 
-E-Commerce app is a design implementation of [E-commerce App]() 
+E-Commerce app is a design implementation of [E-commerce App]() By Us
 
 ![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/screenshot.png?raw=true)
 
